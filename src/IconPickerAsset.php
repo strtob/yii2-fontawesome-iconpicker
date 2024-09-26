@@ -4,7 +4,7 @@ namespace dominus77\iconpicker;
 
 use yii\web\AssetBundle;
 use yii\web\JqueryAsset;
-use yii\bootstrap\BootstrapAsset;
+use yii\bootstrap5\BootstrapAsset;
 
 /**
  * Class IconPickerAsset
