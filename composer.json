@@ -14,7 +14,7 @@
     ],
     "require": {
         "yiisoft/yii2": "~2.0",
-        "yiisoft/yii2-bootstrap": "~2.0.0",
+        "yiisoft/yii2-bootstrap5": "2.0.4",
         "fortawesome/font-awesome": "^5.15",
         "bower-asset/fontawesome-iconpicker": "^3.0.1"
     },
