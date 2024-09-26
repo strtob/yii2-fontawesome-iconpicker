@@ -16,7 +16,7 @@
         "yiisoft/yii2": "~2.0",
         "yiisoft/yii2-bootstrap": "~2.0.0",
         "fortawesome/font-awesome": "^5.15",
-        "bower-asset/fontawesome-iconpicker": "^3.2"
+        "bower-asset/fontawesome-iconpicker": "^3.0.1"
     },
     "require-dev": {
         "roave/security-advisories": "dev-master",
